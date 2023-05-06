@@ -39,4 +39,4 @@ Express,
 
 
 
-A Shopping site created with React js and uses express and Stripe to handle user payments
+
